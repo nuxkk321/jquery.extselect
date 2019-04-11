@@ -1,2 +1,2 @@
-# jquery.extselect
+# jquery.select
 jquery select widget
